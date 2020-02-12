@@ -1,0 +1,22 @@
+P {
+    background-color: lightgreen;
+    border: 1px solid;
+    padding: 4px;
+    border-collapse: collapse;
+}
+
+h2 {
+    text-shadow: azure;
+    background-color: lightgrey;
+    text-align: center;
+    border: 2px solid;
+    padding: 4px;
+    border-collapse: collapse;
+}
+
+h3 {
+    background-color: lightsalmon;
+    border: 1px solid;
+    padding: 4px;
+    border-collapse: collapse;
+}
